@@ -33,6 +33,13 @@ iframe {
 
 a > img {
     height: 40px;
+    padding-bottom: 35px;
+}
+
+div#logo {
+    text-align: right;
+    padding: 10px;
+    height: 95vh;
 }
 
 
